@@ -1,0 +1,73 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+jspm_packages/
+bower_components/
+
+# Build files
+dist/
+build/
+
+# Temporary files
+*.tmp
+*.temp
+
+# IDE/editor directories and files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
+.env.local
+.env.*.local
+
+# Testing
+coverage/
+.nyc_output/
+junit.xml
+test-results/
+
+# Lint/formatting files
+.eslintcache
+.prettierignore
+.prettiercache
+
+# Miscellaneous
+*.bak
+*.swp
+*.swo
+
+# Package lock files
+package-lock.json
+yarn.lock
+
+# Miscellaneous backups
+*.bak
+*.swp
+*.swo
+
+# Parcel-bundler cache
+.cache/
+
+# SvelteKit cache
+.svelte-kit/
+
+# Next.js cache
+.next/
+
+# Nuxt.js cache
+.nuxt/
